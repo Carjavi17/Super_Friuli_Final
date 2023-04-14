@@ -1,0 +1,13 @@
+Harina 300 100 
+Pan 50 190 
+Leche 150 200 
+Carne 500 100 
+Pollo 700 100 
+Toddy 150 100 
+Sal 120 100 
+Pescado 500 100 
+Frijoles 250 100 
+Azucar 150 100 
+Huevos 20 200 
+Torta 600 100 
+Aguacate 120 200 
